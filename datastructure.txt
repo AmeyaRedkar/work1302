@@ -1,0 +1,11 @@
+1. Users
+    - userdb
+        - users
+            {
+            "username":
+            "password":
+            "privilege":
+            "tenants_list":
+            "last_accessed_tenant":
+            "creation_date":
+            }
